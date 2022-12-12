@@ -1,2 +1,2 @@
 # uixtool
- Sandlot UIX XML Encryption\Decryption Tool
+ UIX XML Encryption\Decryption Tool
